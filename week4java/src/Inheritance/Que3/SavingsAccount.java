@@ -1,4 +1,4 @@
-package Inheritance;
+package Inheritance.Que3;
 
 /*class SavingsAccount extends BankAccount {
 

@@ -1,4 +1,4 @@
-package Inheritance;
+package Inheritance.Que1;
 
 public class codebusterGroups extends codebuster {
 

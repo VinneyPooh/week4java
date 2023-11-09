@@ -1,4 +1,4 @@
-package Inheritance;
+package Inheritance.Que4;
 
 public class Cheetah extends Animal {
     public static void main(String[] args) {

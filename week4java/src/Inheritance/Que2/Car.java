@@ -1,6 +1,6 @@
-package Inheritance;
+package Inheritance.Que2;
 
-public class Car extends Vehicle{
+public class Car extends Vehicle {
     public static void main(String[] args) {
         Car minicooper=new Car(); // child class object
         //minicooper.drive();// Que-2 call override method

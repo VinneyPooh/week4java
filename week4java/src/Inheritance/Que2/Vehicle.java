@@ -1,6 +1,6 @@
-package Inheritance;
+package Inheritance.Que2;
 //Write a Java program to create a class called Vehicle with a method called drive().  Create a subclass called Car that overrides the drive() method to print "Repairing a  car".
-public class Vehicle {
+public abstract class Vehicle {
     public static void main(String[] args) {
         helicopter();
 
@@ -15,6 +15,10 @@ public class Vehicle {
         String model = "7896-03";
         int year = 2021;
         System.out.println(Make + fuelType + model + year);
+
+    }
+
+    public void vehicle() {
 
     }
 }
